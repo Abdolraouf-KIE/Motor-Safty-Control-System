@@ -10,4 +10,4 @@ This project was carried out for Emebeded system course for Bachelor of Electric
 ├── Program Flow Chart.pdf      : Flow chart describing the program.</br>
 ├── progress Notes.odt          : Notes made during development.</br>
 ├── README.md                   : This file</br>
-└── Report.pdf                  : Report </br>document describing the results of few test to verify that the code is working as per specifications.
+└── Report.pdf                  : Report document describing the results of few test to verify that the code is working as per specifications. </br>
